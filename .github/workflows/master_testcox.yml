@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'testcox'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_628CC502BA5D46BAA708D3277D30A65D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BF9E409CC2A4E5DA4DBE64166FB5FB2 }}
           package: .
